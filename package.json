@@ -2,17 +2,27 @@
   "name": "viewproducts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/harshac2b2/StripeDemoApp",
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@stripe/stripe-js": "^1.12.1",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.1",
+    "axios": "^0.21.1",
     "react": "^17.0.1",
+    "react-axios": "^2.0.4",
     "react-dom": "^17.0.1",
+    "react-number-format": "^4.4.4",
     "react-scripts": "4.0.2",
+    "react-stripe-checkout": "^2.6.3",
+    "react-toastify": "^7.0.3",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -34,5 +44,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-transform-runtime": "^7.12.1",
+    "@babel/preset-env": "^7.12.16",
+    "@babel/preset-react": "^7.12.13",
+    "babel-loader": "^8.1.0",
+    "gh-pages": "^3.1.0"
   }
 }

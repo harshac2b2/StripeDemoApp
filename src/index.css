@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.products{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+
+}
+
+.products img{
+  width:50%;
+
+}
+
+header {
+  background-color:#6673e5;
+  color: white;
+  padding-top: 20px;
+}
+
