@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/harshac2b2/StripeDemoApp/static/css/main.b60b5543.chunk.css",
+    "main.js": "/harshac2b2/StripeDemoApp/static/js/main.0d3abc18.chunk.js",
+    "main.js.map": "/harshac2b2/StripeDemoApp/static/js/main.0d3abc18.chunk.js.map",
+    "runtime-main.js": "/harshac2b2/StripeDemoApp/static/js/runtime-main.4568610f.js",
+    "runtime-main.js.map": "/harshac2b2/StripeDemoApp/static/js/runtime-main.4568610f.js.map",
+    "static/js/2.abd8b3c6.chunk.js": "/harshac2b2/StripeDemoApp/static/js/2.abd8b3c6.chunk.js",
+    "static/js/2.abd8b3c6.chunk.js.map": "/harshac2b2/StripeDemoApp/static/js/2.abd8b3c6.chunk.js.map",
+    "static/js/3.78ed2ead.chunk.js": "/harshac2b2/StripeDemoApp/static/js/3.78ed2ead.chunk.js",
+    "static/js/3.78ed2ead.chunk.js.map": "/harshac2b2/StripeDemoApp/static/js/3.78ed2ead.chunk.js.map",
+    "index.html": "/harshac2b2/StripeDemoApp/index.html",
+    "static/css/main.b60b5543.chunk.css.map": "/harshac2b2/StripeDemoApp/static/css/main.b60b5543.chunk.css.map",
+    "static/js/2.abd8b3c6.chunk.js.LICENSE.txt": "/harshac2b2/StripeDemoApp/static/js/2.abd8b3c6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/harshac2b2/StripeDemoApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4568610f.js",
+    "static/js/2.abd8b3c6.chunk.js",
+    "static/css/main.b60b5543.chunk.css",
+    "static/js/main.0d3abc18.chunk.js"
+  ]
+}
